@@ -14,13 +14,5 @@ In this project we will train an image classifier to recognize different species
 
 
 
-Blacked-Eye-Susan:
-![Blacked-Eye-Susan][blacked_eye_susan.png]
 
-Global Thistle
-![Global Thistle][global_thistle.png]
-
-Sunflower
-![Sunflower][sunflower.png]
-
-![Blacked-Eye-Susan](assets/blacked_eye_susan.png "Blacked Eye Susan")
+![Blacked-Eye-Susan](https://github.com/theonlyNischal/Image-Clasifier-Project/blob/master/assets/blacked_eye_susan.PNG "Blacked Eye Susan")
