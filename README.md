@@ -13,13 +13,15 @@ In this project we will train an image classifier to recognize different species
 ### Some predictions on testing sets
 
 
-
+-------------------------------------
 #### Blacked Eye Susan
 ![Blacked Eye Susan](https://github.com/theonlyNischal/Image-Clasifier-Project/blob/master/assets/blacked_eye_susan.PNG "Blacked Eye Susan")
 
+--------------------------------------
 #### Global Thistle
 
 ![Global Thistle](https://github.com/theonlyNischal/Image-Clasifier-Project/blob/master/assets/global_thistle.PNG "Global Thistle")
 
+--------------------------------------
 #### Sunflower
 ![Sunflower](https://github.com/theonlyNischal/Image-Clasifier-Project/blob/master/assets/sunflower.PNG "Sunflower")
