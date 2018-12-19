@@ -22,3 +22,5 @@ Global Thistle
 
 Sunflower
 ![Sunflower][sunflower.png]
+
+![Blacked-Eye-Susan](assets/blacked_eye_susan.png "Blacked Eye Susan")
