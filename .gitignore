@@ -1,2 +1,4 @@
+*.pth
+*.pt
 flower_data/
 cat_to_name.json
